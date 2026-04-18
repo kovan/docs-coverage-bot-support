@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Docs Coverage Bot documentation
+    url: https://docs-coverage-bot.fly.dev/docs
+    about: Setup and configuration documentation.
+  - name: Privacy requests
+    url: mailto:xaum.io@gmail.com?subject=Docs%20Coverage%20Bot%20privacy
+    about: Use email for privacy questions or deletion requests.
